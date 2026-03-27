@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Scan all files */
+@source "../**/*.{js,ts,jsx,tsx}";
+
+/* Optional animations plugin */
+@import "tw-animate-css";
